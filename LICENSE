@@ -1,0 +1,95 @@
+SABIOFLOW SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 zjubiz. All rights reserved.
+
+SabioFlow (the "Software") is proprietary software. It is licensed, not sold.
+This is not an open source license. By downloading, installing or using the
+Software you agree to these terms. If you do not agree, do not use it.
+
+1. LICENSE GRANT
+   Subject to these terms, the copyright holder ("Licensor") grants you a
+   limited, personal, non-exclusive, non-transferable, revocable license to
+   download, install and use the Software, in its binary form, on Apple
+   computers that you own or control, for your own personal or internal
+   business use.
+
+2. RESTRICTIONS
+   You may not, and may not allow anyone else to:
+   a) copy, redistribute, publish, sell, rent, lease, lend or sublicense the
+      Software, or offer it as a hosted or managed service;
+   b) modify the Software or create derivative works based on it;
+   c) decompile, disassemble, reverse engineer or attempt to extract the
+      source code of the Software, except to the extent this restriction is
+      prohibited by applicable law;
+   d) remove or alter any copyright, trademark or other proprietary notice;
+   e) circumvent or disable any security or update-signature mechanism of
+      the Software; or
+   f) use the name, logo or branding of SabioFlow in a way that suggests
+      endorsement or affiliation without prior written permission.
+
+3. YOUR DATA
+   Your documents (".sabioflow" files) and all data in them belong to you.
+   The Software stores them on your computer. The Licensor does not receive,
+   access or store your documents. You are responsible for keeping your own
+   backups and for safeguarding any document password; a lost password
+   cannot be recovered.
+
+4. OWNERSHIP
+   The Licensor retains all right, title and interest in the Software,
+   including all intellectual property rights. No rights are granted other
+   than those expressly stated in this agreement.
+
+5. THIRD-PARTY SOFTWARE AND SERVICES
+   The Software includes third-party open source components, which remain
+   subject to their own licenses. The optional bank connection feature uses
+   the SimpleFIN Bridge service, which is operated by a third party under its
+   own terms and privacy policy. The Licensor is not responsible for any
+   third-party service.
+
+6. UPDATES
+   The Software may offer updates. Updates are never installed without your
+   action, and unless accompanied by a separate license they are governed by
+   these terms.
+
+7. NOT FINANCIAL, TAX OR LEGAL ADVICE
+   The Software is a record-keeping and organizing tool. It does not provide
+   financial, investment, tax, accounting or legal advice. You are
+   responsible for checking that the information you enter, import or sync is
+   complete and correct.
+
+8. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. THE
+   LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+   UNINTERRUPTED OR FREE OF DATA LOSS.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE
+   FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES,
+   OR FOR ANY LOSS OF DATA, PROFITS, SAVINGS OR OPPORTUNITY, ARISING OUT OF
+   OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. THE LICENSOR'S TOTAL LIABILITY FOR ANY CLAIM WILL NOT EXCEED THE
+   AMOUNT YOU PAID FOR THE SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM, OR
+   USD 10 IF YOU PAID NOTHING.
+
+10. TERMINATION
+    This license ends automatically if you breach these terms. On
+    termination you must stop using the Software and delete all copies. You
+    may end this license at any time by deleting the Software. Sections 2 to
+    4 and 7 to 11 survive termination.
+
+11. GENERAL
+    If any provision is found unenforceable, the remaining provisions stay in
+    effect. This agreement is the entire agreement between you and the
+    Licensor about the Software. The Licensor may publish a new version of
+    these terms with a new release of the Software; continuing to use that
+    release means you accept them.
+
+12. REPOSITORY CONTENT
+    This repository contains release builds and documentation only. Viewing
+    and downloading it does not grant any right beyond this agreement,
+    except for the rights that GitHub's Terms of Service give to users of its
+    platform.
+
+Contact: open an issue at https://github.com/zjubiz/sabioflow-releases/issues
