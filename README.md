@@ -7,7 +7,7 @@
 **Personal finance for Mac that lives on your Mac.**<br />
 No account. No cloud. No tracking. Just your money, in a file you own.
 
-[**Download for Mac**](https://github.com/Atrom-US/sabioflow-releases/releases/latest) &nbsp;·&nbsp; [What's new](https://github.com/Atrom-US/sabioflow-releases/releases) &nbsp;·&nbsp; [License](LICENSE)
+[**Download for Mac**](https://github.com/Atrom-US/sabioflow-releases/releases/latest) &nbsp;·&nbsp; [What's new](https://github.com/Atrom-US/sabioflow-releases/releases) &nbsp;·&nbsp; [License](LICENSE) &nbsp;·&nbsp; [atrom.us](https://atrom.us)
 
 ![Platform](https://img.shields.io/badge/macOS-13%2B-black?logo=apple&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-arm64-7c3aed)
@@ -40,14 +40,28 @@ Most money apps want your login, your bank credentials and a monthly fee, and th
 <tr>
 <td width="50%" valign="top">
 
-### 📒 A register that keeps up with you
-Add transactions in a fast inline row (`⌘N`), split them across categories, link transfers between accounts, edit many at once with `⌘E`, and undo mistakes with `⌘Z`.
+### 📊 A dashboard that answers “how am I doing?”
+Net worth, income, expenses and savings at a glance, with cash flow, spending by category, trends and a map of where your money comes from and where it goes.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Connect your bank, privately
-Sync your accounts through [SimpleFIN Bridge](https://www.simplefin.org/). Your bank connection is stored only in your Mac's Keychain, never in your file and never on our servers.
+### 📒 A register that keeps up with you
+Add transactions in a fast inline row (`⌘N`), type a calculation like `(4*2)+1/2` in any amount, split across categories, tag with suggestions, link transfers, edit many at once with `⌘E`, and undo with `⌘Z`.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🏦 Connect your accounts, privately
+Sync your banks through [SimpleFIN Bridge](https://www.simplefin.org/) and your brokerages, read-only, through [SnapTrade](https://snaptrade.com/). Credentials are stored only in your Mac's Keychain, never in your file. SabioFlow never places, changes or cancels an order.
+
+</td>
+<td valign="top">
+
+### 📈 Investments in the same place
+See each investment account's total value, how much is invested and how much is cash, plus a value-over-time chart, next to your everyday accounts and in your net worth.
 
 </td>
 </tr>
@@ -55,56 +69,70 @@ Sync your accounts through [SimpleFIN Bridge](https://www.simplefin.org/). Your 
 <td valign="top">
 
 ### 📥 Bring your history with you
-Import CSV, OFX, QFX, QIF and Quicken ZIP files, or just drag a file onto an account. Every import is a batch you can review and undo.
+Import CSV, OFX, QFX, QIF, Quicken ZIP and `.quicken` files, or just drag a file onto an account. Re-importing never duplicates what you already have, and every import is a batch you can review and undo.
 
 </td>
 <td valign="top">
 
 ### 🧠 Smart categorization
-Rules and suggestions learn from how you categorize. The **Review** inbox catches new, uncategorized and possible transfer transactions.
+Rules and suggestions learn from how you categorize. The **Review** inbox catches new, uncategorized and possible transfer transactions, and links a refund to the purchase it corrects so your spending stays right.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 📊 Reports and a real budget
-See where your money goes with spending, income, cash flow and net worth reports. Save the ones you use and export them to CSV.
+### 🗓️ Budgets and reports you can act on
+A monthly budget that shows what is left in every category, scheduled transactions, and spending, income, cash flow and net worth reports. Save the ones you use and export them to CSV.
 
 </td>
 <td valign="top">
 
-### 🌎 Multiple currencies
-Track accounts in USD, COP, MXN and EUR with automatic exchange rates, or set your own rate by hand.
+### 🏢 Personal and business, side by side
+Keep business accounts separate, assign a business expense paid with a personal card, and track money you lend or owe to people.
 
 </td>
 </tr>
 </table>
 
-Also included: scheduled transactions, tags, attachments, reconciliation, automatic and manual backups, business accounts, global search (`⌘F`) and an interface in **English and Spanish**.
+Also included: tags, attachments, reconciliation, multiple currencies (USD, COP, MXN and EUR with automatic exchange rates or your own), automatic and manual backups, global search (`⌘F`) and an interface in **English and Spanish**.
 
 ## A closer look
 
 <table>
 <tr>
 <td width="50%">
-<img src="assets/register-light.png" alt="The transaction register with categories, balances and review flags" />
+<img src="assets/register-dark.png" alt="The transaction register in dark mode, with an account summary, categories and a running balance" />
 <p align="center"><sub><b>Register</b> — fast, keyboard-friendly and always balanced</sub></p>
 </td>
 <td width="50%">
-<img src="assets/budget-light.png" alt="The monthly budget showing what is left in each category" />
-<p align="center"><sub><b>Budget</b> — see what is left in every category</sub></p>
+<img src="assets/accounts-light.png" alt="One list of accounts grouped by bank, with SnapTrade and manual accounts" />
+<p align="center"><sub><b>Accounts</b> — one list, grouped by bank</sub></p>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<img src="assets/reports-light.png" alt="The spending report broken down by category" />
+<td>
+<img src="assets/budget-dark.png" alt="The monthly budget in dark mode showing what is left in each category" />
+<p align="center"><sub><b>Budget</b> — see what is left in every category</sub></p>
+</td>
+<td>
+<img src="assets/investments-dark.png" alt="An investment account with its total value, invested amount, cash and value chart" />
+<p align="center"><sub><b>Investments</b> — value and history, read-only</sub></p>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/reports-light.png" alt="The spending report with a monthly chart and a breakdown by category" />
 <p align="center"><sub><b>Reports</b> — understand your spending in seconds</sub></p>
+</td>
+<td>
+<img src="assets/review-light.png" alt="The Review inbox with transactions waiting for a category" />
+<p align="center"><sub><b>Review</b> — nothing slips through uncategorized</sub></p>
 </td>
 </tr>
 </table>
 
-> The screenshots use sample data.
+> All screenshots use made-up sample data.
 
 ## Download and install
 
@@ -137,7 +165,8 @@ Before installing, the app verifies the update's cryptographic signature and mak
 - Your document never leaves your Mac unless you move it yourself.
 - The app only connects to the internet to:
   - fetch exchange rates (it sends only currency codes and dates),
-  - sync your bank through SimpleFIN, **if you choose to connect it**, and
+  - sync your bank through SimpleFIN, **if you choose to connect it**,
+  - read your brokerage accounts (read-only) through SnapTrade, **if you choose to connect it**, and
   - check for updates.
 
 ## License
@@ -147,5 +176,5 @@ SabioFlow is proprietary software, **not open source**. This repository contains
 <br />
 
 <div align="center">
-<sub>© 2026 zjubiz. All rights reserved.</sub>
+<sub>Made by <a href="https://atrom.us">Atrom</a> · © 2026 zjubiz. All rights reserved.</sub>
 </div>
